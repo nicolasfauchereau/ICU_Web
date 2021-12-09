@@ -4,7 +4,12 @@ This prototype website gathers maps and products from the ICU
 
 - [realtime monitoring](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG)
 
-    - [Standardized Precipitation Index](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG/SPI)  
+    - [Standardized Precipitation Index](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG/SPI) 
+  
+        30 days SPI
+
+        <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/SPI/Pacific/GPM_IMERG_SPI_Pacific_30days_latest.png" alt="30 days" width="200">
+
     - [EAR (Early Action Rainfall) Watch](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG/EAR_Watch)  
     - [US Drought Monitor](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG/USDM)  
     - [rainfall accumulations](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG/accumulations/)  
