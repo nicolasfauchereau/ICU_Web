@@ -40,7 +40,7 @@ This prototype website gathers maps and products from the ICU
     - 
     | **30 days accumulation** | **60 days accumulation** |
     | ------------- | ------------- |
-    |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/accumulations/Pacific/precip_accumulation_30days_latest.png" alt="30 days" width="300"> | <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/accumulations/Pacific/precip_accumulation_60days_latest.png" alt="60 days" width="300">
+    |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/accumulations/Pacific/precip_accumulation_30days_latest.png" alt="30 days" width="300"> | <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/accumulations/Pacific/precip_accumulation_60days_latest.png" alt="60 days" width="300"> |
     | **90 days accumulation** | **180 days accumulation** |
     |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/accumulations/Pacific/precip_accumulation_90days_latest.png" alt="90 days" width="300"> | <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/accumulations/Pacific/precip_accumulation_180days_latest.png" alt="180 days" width="300"> |
     | **360 days accumulation** |  |
@@ -64,7 +64,7 @@ This prototype website gathers maps and products from the ICU
     | **number of dry days over the past 90 days** | **number of dry days over the past 180 days** |
     |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/dry_days/Pacific/nb_dry_days_90days_latest.png" alt="90 days" width="300"> | <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/dry_days/Pacific/nb_dry_days_180days_latest.png" alt="180 days" width="300"> |
     | **number of dry days over the past 360 days** |  |
-    |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/dry_days/Pacific/nb_dry_days_360days_latest.png" alt="360 days" 
+    |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/dry_days/Pacific/nb_dry_days_360days_latest.png" alt="360 days" | |
 
     - [number of days since last rain](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG/last_rain)  
 
