@@ -12,6 +12,9 @@ This prototype website gathers maps and products from the ICU
     |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/SPI/Pacific/GPM_IMERG_SPI_Pacific_30days_latest.png" alt="30 days" width="250"> | <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/SPI/Pacific/GPM_IMERG_SPI_Pacific_60days_latest.png" alt="60 days" width="250">  |
     | **90 days SPI** | **180 days SPI** |
     |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/SPI/Pacific/GPM_IMERG_SPI_Pacific_90days_latest.png" alt="30 days" width="250"> | <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/SPI/Pacific/GPM_IMERG_SPI_Pacific_180days_latest.png" alt="60 days" width="250"> |
+    | **360 days SPI** |  |
+    |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/SPI/Pacific/GPM_IMERG_SPI_Pacific_360days_latest.png" alt="30 days" width="250"> |  |
+
 
 
     - [EAR (Early Action Rainfall) Watch](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG/EAR_Watch)  
