@@ -69,4 +69,14 @@ This prototype website gathers maps and products from the ICU
 
     - [number of days since last rain](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG/last_rain)  
 
+    | **number of since last rain over the past 30 days** | **number of since last rain over the past 60 days** |
+    | ------------- | ------------- |
+    |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/last_rain/Pacific/days_since_rain_30days_latest.png" alt="30 days" width="300"> | <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/last_rain/Pacific/days_since_rain_60days_latest.png" alt="60 days" width="300"> |
+    | **number of since last rain over the past 90 days** | **number of since last rain over the past 180 days** |
+    |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/dry_days/Pacific/days_since_rain_90days_latest.png" alt="90 days" width="300"> | <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/last_rain/Pacific/days_since_rain_180days_latest.png" alt="180 days" width="300"> |
+    | **number of since last rain over the past 360 days** |  |
+    |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/last_rain/Pacific/days_since_rain_360days_latest.png" alt="360 days" width="300">| |
+
+
+
 - [forecast products]()
