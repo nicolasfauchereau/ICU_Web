@@ -46,8 +46,16 @@ This prototype website gathers maps and products from the ICU
     | **360 days accumulation** |  |
     |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/accumulations/Pacific/precip_accumulation_360days_latest.png" alt="30 days" width="300"> |  |
 
-
     - [rainfall anomalies](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG/anomalies)  
+    - 
+    | **30 days anomalies** | **60 days anomalies** |
+    | ------------- | ------------- |
+    |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/anomalies/Pacific/precip_anomalies_30days_latest.png" alt="30 days" width="300"> | <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/anomalies/Pacific/precip_anomalies_60days_latest.png" alt="60 days" width="300">
+    | **90 days anomalies** | **180 days anomalies** |
+    |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/anomalies/Pacific/precip_anomalies_90days_latest.png" alt="30 days" width="300"> | <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/anomalies/Pacific/precip_anomalies_180days_latest.png" alt="60 days" width="300"> |
+    | **360 days anomalies** |  |
+    |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/anomalies/Pacific/precip_anomalies_360days_latest.png" alt="30 days" width="300"> |  |
+
     - [number of dry days](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG/dry_days)  
     - [number of days since last rain](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG/last_rain)  
 
