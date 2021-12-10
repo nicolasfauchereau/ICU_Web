@@ -9,7 +9,7 @@ This prototype website gathers maps and products from the ICU
     | ------------- | ------------- |
     |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/SPI/Pacific/GPM_IMERG_SPI_Pacific_30days_latest.png" alt="30 days" width="250"> | <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/SPI/Pacific/GPM_IMERG_SPI_Pacific_60days_latest.png" alt="60 days" width="250">  |
     | ------------- | ------------- |
-    | Content Cell  | Content Cell  |
+    | **90 days SPI** | **180 days SPI** |
 
         - **30 days SPI**
 
