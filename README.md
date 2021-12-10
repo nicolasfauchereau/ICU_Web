@@ -26,6 +26,16 @@ This prototype website gathers maps and products from the ICU
     |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/EAR_Watch/Pacific/EAR_Watch_Pacific_360days_latest.png" alt="30 days" width="300"> |  |
 
     - [US Drought Monitor](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG/USDM)  
+    
+    | **30 days USDM** | **60 days USDM** |
+    | ------------- | ------------- |
+    |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/USDM/Pacific/USDM_Pacific_30days_latest.png" alt="30 days" width="300"> | <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/USDM/Pacific/USDM_Pacific_60days_latest.png" alt="60 days" width="300">
+    | **90 days USDM** | **180 days USDM** |
+    |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/USDM/Pacific/USDM_Pacific_90days_latest.png" alt="30 days" width="300"> | <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/USDM/Pacific/USDM_Pacific_180days_latest.png" alt="60 days" width="300"> |
+    | **360 days USDM** |  |
+    |  <img src="https://github.com/nicolasfauchereau/ICU_Web/blob/main/GPM_IMERG/USDM/Pacific/USDM_Pacific_360days_latest.png" alt="30 days" width="300"> |  |
+
+
     - [rainfall accumulations](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG/accumulations/)  
     - [rainfall anomalies](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG/anomalies)  
     - [number of dry days](https://github.com/nicolasfauchereau/ICU_Web/tree/main/GPM_IMERG/dry_days)  
