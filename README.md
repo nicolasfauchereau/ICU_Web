@@ -79,4 +79,4 @@ This prototype website gathers maps and products from the ICU
 
 
 
-- [forecast products]()
+- [forecast products](https://github.com/nicolasfauchereau/ICU_Web/tree/main/C3S)
