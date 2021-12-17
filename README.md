@@ -80,3 +80,11 @@ This prototype website gathers maps and products from the ICU
 
 
 - [forecast products](https://github.com/nicolasfauchereau/ICU_Web/tree/main/C3S)
+
+    - monthly tercile probabilistic forecasts 
+
+    - seasonal tercile probabilistic forecasts
+
+    - monthly decile forecasts (first decile bin reaching 50% cumulative probability)
+
+
